@@ -1,3 +1,4 @@
+<!-- This component based on NuxtIcons module. Please take a look at https://github.com/gitFoxCode/nuxt-icons -->
 <script lang="ts" setup>
 import { ref, watchEffect } from 'vue'
 
